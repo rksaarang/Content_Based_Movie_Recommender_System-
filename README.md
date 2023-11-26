@@ -64,8 +64,10 @@ This project implements a content-based movie recommender system using Python, l
 - Cosine Similarity
 
 ### Sample Screenshots:
+1.Selecting The movie
 ![image](https://github.com/rksaarang/movie_recommender_system_/assets/105165740/6d991f45-4b4d-4ec6-b8c3-c41f51e71cf0)
 
+2.Recommended Movies
 ![image](https://github.com/rksaarang/movie_recommender_system_/assets/105165740/48678cdb-c86b-4861-a8ca-80ea1686543a)
 
 
